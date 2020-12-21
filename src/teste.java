@@ -1,0 +1,3 @@
+class Teste {
+    public Teste(){}
+}
